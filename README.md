@@ -1,6 +1,6 @@
 # Qwen/Qwen2-Audio-7B
 
-[![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Qwen%2FQwen2--Audio--7B-blue)](https://huggingface.co/Qwen/Qwen2-Audio-7B)
+[![Модель](https://img.shields.io/badge/Hugging%20Face-Qwen%2FQwen2--Audio--7B-blue)](https://huggingface.co/Qwen/Qwen2-Audio-7B)
 
 ## Описание модели
 
