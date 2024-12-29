@@ -1,6 +1,7 @@
 # Qwen/Qwen2-Audio-7B
 
-[![Модель](https://img.shields.io/badge/Hugging%20Face-Qwen%2FQwen2--Audio--7B-blue)](https://huggingface.co/Qwen/Qwen2-Audio-7B)
+[![Модель на Hugging Face](https://img.shields.io/badge/Hugging%20Face-Qwen%2FQwen2--Audio--7B-blue)](https://huggingface.co/Qwen/Qwen2-Audio-7B)
+[![Демо-приложение](https://img.shields.io/badge/Демо-Qwen2--Audio--Instruct--Demo-green)](https://huggingface.co/spaces/Qwen/Qwen2-Audio-Instruct-Demo)
 
 ## Описание модели
 
@@ -15,7 +16,7 @@ Qwen2-Audio-7B — это мощная языковая модель, разра
 
 ## Использование
 
-Для использования модели `Qwen2-Audio-7B` в вашем проекте, выполните следующие шаги:
+Для использования модели `Qwen2-Audio-7B` в вашем проекте выполните следующие шаги:
 
 1. Установите необходимые зависимости:
 
